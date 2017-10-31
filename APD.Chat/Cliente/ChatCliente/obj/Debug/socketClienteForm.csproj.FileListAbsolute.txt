@@ -1,0 +1,19 @@
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.csprojResolveAssemblyReference.cache
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.MainForm.resources
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.csproj.GenerateResource.Cache
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\bin\Debug\socketClienteForm.exe
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\bin\Debug\socketClienteForm.pdb
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.exe
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.pdb
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.FrmLogin.resources
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.FrmPrincipal.resources
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.csproj.GenerateResource.Cache
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\bin\Debug\socketClienteForm.exe.config
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\bin\Debug\socketClienteForm.exe
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\bin\Debug\socketClienteForm.pdb
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\bin\Debug\MaterialSkin.dll
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.exe
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.pdb
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketClienteForm\socketClienteForm\obj\Debug\socketClienteForm.Properties.Resources.resources

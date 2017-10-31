@@ -1,0 +1,11 @@
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketServerConsole\socketServerConsole\bin\Debug\socketServerConsole.exe
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketServerConsole\socketServerConsole\bin\Debug\socketServerConsole.pdb
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.exe
+C:\Users\Valeria\Desktop\SoftwaresRogerio\SharpDevelopPortable\Data\SharpDevelop Projects\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.pdb
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\bin\Debug\socketServerConsole.exe
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\bin\Debug\socketServerConsole.pdb
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.exe
+C:\Users\Marcos\Downloads\ComunicacaoProcessoChat\socketServerConsole\socketServerConsole\obj\Debug\socketServerConsole.pdb
